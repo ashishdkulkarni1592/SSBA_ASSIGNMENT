@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">cv_app</string>
+    <string name="about_me">Experience Summery</string>
+    <string name="contact">Contact</string>
+    <string name="skills">Skills</string>
+</resources>
